@@ -1,0 +1,1 @@
+# polinomial-using-python
